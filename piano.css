@@ -1,0 +1,15 @@
+.whiteKey {
+  border: 1px solid grey;
+  background-color: ivory;
+  color: black;
+  height: 100px;
+  width: 28px;
+}
+
+.blackKey {
+  border: 1px solid grey;
+  background-color: black;
+  color: white;
+  height: 60px;
+  width: 16px;
+}
